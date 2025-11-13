@@ -4,7 +4,15 @@
 
 3- git commit -m "first commit" // to write add message
 
-
 4- git remote add origin .......
 
 5- git push -u origin master
+
+
+=>  to update git repo
+
+1- git add .
+
+2- git commit -m "message"
+
+3- git push -u origin master
